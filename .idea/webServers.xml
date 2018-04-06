@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20ada489-83e6-4b4a-aa60-afb76ce12561" name="192.168.1.94" url="http://192.168.1.94">
+        <fileTransfer host="192.168.1.94" port="22" rootFolder="/home/jack/flask-pg/vizpro1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
