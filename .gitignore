@@ -1,3 +1,5 @@
 
 controllers/controllerConstants.py
 utils/news/utilsConstants.py
+.idea
+*.pyc
